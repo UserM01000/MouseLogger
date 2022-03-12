@@ -12,6 +12,11 @@ cada cierto tiempo pero, meh </br>
 lo hice todo de una vez, pero si deseas </br>
 colaborar el codigo es 100% libre :D
 
+# Update git
+
+1. Otro codigo o ejemplo de mouselogger super basico
+2. Malware o Virus sobre el puntero del mouse (no es la gran cosa)
+
 # Instalacion Win
 1. Descarga el .exe
 2. ejecutalo
